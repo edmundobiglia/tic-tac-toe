@@ -6,6 +6,10 @@
 
 A very simple Tic-Tac-Toe game built for the mere purpose of practicing React ⚛️.
 
+### 🌍 Live Preview
+
+Click [here](https://edmundobiglia.github.io/tic-tac-toe/) to see it live.
+
 ### 🛠️ Technologies Used
 
 - React.js
